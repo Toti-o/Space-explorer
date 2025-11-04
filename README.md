@@ -36,7 +36,7 @@ A responsive React application exploring NASA's open APIs with beautiful UI buil
 
 ##  Live Demo
 
-[Deployed Application Link](#) *(Add your Vercel/Netlify URL here after deployment)*
+[Deployed Application Link](#) *(https://willowy-truffle-d46f35.netlify.app/)*
 
 ##  Installation & Setup
 
